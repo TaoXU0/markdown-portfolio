@@ -1,8 +1,3 @@
----
-layout: default
----
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  * Item 3e
+- list1
+- list2
+  - list3
